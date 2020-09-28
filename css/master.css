@@ -46,7 +46,7 @@
 }
 
 .cntcbody1 {
-  background: url("/img/ContactUsForm.jpg")no-repeat center center fixed;
+  background: url("img/ContactUsForm.jpg")no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
